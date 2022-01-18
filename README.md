@@ -1,4 +1,5 @@
 # Lesson Git and Github
 
-- Local edit 1
+- Local Edit 1
 - Github Edit 1
+- Github Edit 2
